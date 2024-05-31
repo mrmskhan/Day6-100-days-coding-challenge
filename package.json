@@ -1,8 +1,8 @@
 {
-  "name": "day6-coding",
+  "name": "day7-coding",
   "version": "1.0.0",
   "description": "",
-  "main": "day6.js",
+  "main": "day7.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
